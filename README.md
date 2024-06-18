@@ -1,2 +1,2 @@
 # Teste-de-Versionamento
-Iremos testas as atividades 
+Iremos testar as atividades 
